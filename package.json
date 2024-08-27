@@ -61,7 +61,7 @@
   },
 
   "scripts": {
-
+  "gh-pages-clean": "gh-pages-clean",
     "start": "react-scripts start",
 
     "build": "react-scripts build",
